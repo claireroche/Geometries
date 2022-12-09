@@ -1,0 +1,1 @@
+NACA_0012_2D.brep est la géométrie NACA 0012 2D normée, avec x dans [0,1].

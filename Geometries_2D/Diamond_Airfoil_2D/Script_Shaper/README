@@ -1,0 +1,30 @@
+## Commandes permettants de lancer les differents scripts
+##
+
+## lancer les scripts permettants de creer la geométrie :
+
+## En lui fournissant un fichier de parametres (alpha et C).
+## (Le fichier de parametres doit se trouver dans le même dossier
+## que le script et s'appelle diamond_airfoil_ac_parameters.txt)
+./salome start -t ../PATH/TO/SCRIPT/diamond_airfoil_a_c_file.py
+## ou 
+./PATH/TO/SALOME start -t diamond_airfoil_a_c_file.py
+
+## En lui rentrant en input les paramètres alpha et C.
+./salome start -t ../PATH/TO/SCRIPT/diamond_airfoil_a_c_input.py
+## ou 
+./PATH/TO/SALOME start -t diamond_airfoil_a_c_input.py
+
+## En lui fournissant un fichier de parametres (tous sauf alpha).
+## (Le fichier de parametres doit se trouver dans le même dossier
+## que le script et s'appelle diamond_airfoil_calcul_parameters.txt)
+./salome start -t ../PATH/TO/SCRIPT/diamond_airfoil_calcul_a_file.py
+## ou 
+./PATH/TO/SALOME start -t diamond_airfoil_calcul_a_file.py
+
+## En lui rentrant en input tous les paramètres sauf alpha.
+./salome start -t ../PATH/TO/SCRIPT/diamond_airfoil_calcul_a_input.py
+## ou 
+./PATH/TO/SALOME start -t diamond_airfoil_calcul_a_input.py
+
+## Les géométries seront sauvegarder au format BREP dans le dossier contenant les scripts.

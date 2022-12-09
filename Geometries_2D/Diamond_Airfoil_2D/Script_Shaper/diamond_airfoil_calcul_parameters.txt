@@ -1,0 +1,5 @@
+b1u 44.064 ObliqueShockAngle
+ma 1.5 mach
+gamma 1.4 gamma
+C 100 ChordLength
+A 3 AngleOfAttack
