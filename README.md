@@ -1,4 +1,6 @@
-Bibliothèques de géométries 2D et 3D que j'ai réussi à réunir.
+Collection of geometries 2D and 3D, mostly for Computational Fluid Dynamics.
 
-## Format .hdf
-C'est le format de travail sous le logiciel de CAO Shaper, de la suite Salome.
+# Formats
+* .hdf : This is the studies format of the CAO Software Shaper, from the [Salome](https://docs.salome-platform.org/latest/main/index.html) platform.
+* .brep : This is a representation of a solid by its surfaces. This is readable by GMSH.
+* .geo : This is a CAO format. This format is readable by GMSH.
