@@ -31,6 +31,10 @@ These are elementary test geometries.
   lattice Boltzmann model for gas dynamics: Theory,
   boundary conditions, and implementation"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.063302)
 
+### Double Cone
+* ["Assessment of CFD Capability for Hypersonic Shock
+  Wave Laminar Boundary Layer Interactions"](https://www.mdpi.com/2226-4310/4/2/25)
+
 ### Fire II
 * ["Numerical Simulations of the FIRE-II Convective and
   Radiative Heating Rates"](https://arc.aiaa.org/doi/abs/10.2514/6.2007-4044)
@@ -38,6 +42,10 @@ These are elementary test geometries.
     WEAKLY IONIZED HYPERSONIC
     FLOW OVER REENTRY CAPSULES"](https://web.archive.org/web/20170809050846id_/http://ngpdlab.engin.umich.edu/files/papers/Scalabrin.pdf)
 
+### HyTRV
+* [Direct numerical simulation of hypersonic
+  boundary layer transition over a lifting-
+  body model HyTRV](https://link.springer.com/content/pdf/10.1186/s42774-021-00082-x.pdf?pdf=button%20sticky)
 
 ### Mars Spacecraft
 * ["Development of an Unstructured Navier-Stokes Solver
