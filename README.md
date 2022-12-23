@@ -20,6 +20,7 @@ These are elementary test geometries.
 
 
 # Documentation for CFD
+This part is a list of some articles using these geometries for CFD.
 
 ### Apollo
 * Thesis ["NUMERICAL SIMULATION OF
