@@ -10,13 +10,18 @@ Collection of geometries 2D and 3D, mostly for Computational Fluid Dynamics.
 ### C?_2D
 These are elementary test geometries.
 
+### NACA_2D
+Find more information on the [NASA-NACA website](https://turbmodels.larc.nasa.gov/naca0012_val.html). The geometry made here is the one with x between 0 and 1.
 
 # Geometries 3D
 
 ### C?_3D
-These are elementary test geometries.
+These are elementary test geometries. There are some lines about mesh at the bottom of the .geo files. You can easily remove these lines to get only the geometry.
 
-**Observation:** C1_3D for exemple is not a 3D extension of C1_2D.
+* _Surface.geo: This is a geometry with a surface mesh, made with transfinite (_ex: C6_3D_Surface.geo_).
+* _inSphere.geo: The volume is now the space between the geometry (the object) and a farfield sphere (_ex: C6_3D_inSphere.geo_).
+
+**Attention:** C1_3D for exemple is not a 3D extension of C1_2D.
 
 
 # Documentation for CFD
@@ -26,6 +31,19 @@ This part is a list of some articles using these geometries for CFD.
 * Thesis ["NUMERICAL SIMULATION OF
   WEAKLY IONIZED HYPERSONIC
   FLOW OVER REENTRY CAPSULES"](https://web.archive.org/web/20170809050846id_/http://ngpdlab.engin.umich.edu/files/papers/Scalabrin.pdf)
+
+[//]: <> (<img src="./img/Apollo_2D.png" alt="Test" style="height: 50px; width:50px;"/>)
+
+[//]: <> (<figure>
+  <img
+  src="./img/Apollo_2D.png"
+  alt="Test."
+  style="height: 100px; width:100px;" >
+  <figcaption>Apollo 2D</figcaption>
+</figure>)
+
+### Cone Cylinder Flare (CCF)
+* ["Flow and Stability Analysis of a Hypersonic Boundary Layer over an Axisymmetric Cone Cylinder Flare Configuration"](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2115)
 
 ### Diamond Airfoil
 * ["Entropic
