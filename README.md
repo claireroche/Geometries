@@ -46,12 +46,19 @@ This part is a list of some articles using these geometries for CFD.
 * ["Assessment of CFD Capability for Hypersonic Shock
   Wave Laminar Boundary Layer Interactions"](https://www.mdpi.com/2226-4310/4/2/25)
 
+### Double Ellipsoid
+
+* ["Hypersonic Flows for Reentry Problems"](https://link.springer.com/content/pdf/10.1007/978-3-642-76527-8_6.pdf)
+
 ### Fire II
 * ["Numerical Simulations of the FIRE-II Convective and
   Radiative Heating Rates"](https://arc.aiaa.org/doi/abs/10.2514/6.2007-4044)
 * Thesis ["NUMERICAL SIMULATION OF
     WEAKLY IONIZED HYPERSONIC
     FLOW OVER REENTRY CAPSULES"](https://web.archive.org/web/20170809050846id_/http://ngpdlab.engin.umich.edu/files/papers/Scalabrin.pdf)
+
+### HIFIRE I
+* ["Fifty Years of Shock-Wave/Boundary-Layer Interaction Research: What Next?"](https://arc.aiaa.org/doi/abs/10.2514/2.1476)
 
 ### HyTRV
 * [Direct numerical simulation of hypersonic
