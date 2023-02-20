@@ -34,14 +34,6 @@ This part is a list of some articles using these geometries for CFD.
 
 [//]: <> (<img src="./img/Apollo_2D.png" alt="Test" style="height: 50px; width:50px;"/>)
 
-[//]: <> (<figure>
-  <img
-  src="./img/Apollo_2D.png"
-  alt="Test."
-  style="height: 100px; width:100px;" >
-  <figcaption>Apollo 2D</figcaption>
-</figure>)
-
 ### Cone Cylinder Flare (CCF)
 * ["Flow and Stability Analysis of a Hypersonic Boundary Layer over an Axisymmetric Cone Cylinder Flare Configuration"](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2115)
 
