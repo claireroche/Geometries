@@ -45,5 +45,29 @@ Surface(5) = {11};
 //+
 Surface Loop(1) = {3, 2, 4, 1, 5};
 Volume(1) = {1};
+//+
+Box(2) = {-0.2, -0.3, -0.45, 2.2, 0.8, 0.9};
+//+
+BooleanDifference{ Volume{2}; Delete; }{ Volume{1}; Delete; }
+//+
+Physical Surface("Inlet") = {6};
+Physical Surface("Outlet") = {9, 10, 7, 11, 8};
+Physical Surface("Wall") = {5, 3, 2, 1, 4};
+Physical Volume("Fluid") = {2};
+//+
+factor_far = 40;
+factor_body = 120;
+//-- BOX
+// Length 2.2 (X)
+Transfinite Curve {15, 16, 18, 13} = 2.2 * factor_far;
+// Length 0.8 (Y)
+Transfinite Curve {12, 10, 17, 20} = 0.8 * factor_far;
+// Length 0.9 (Z)
+Transfinite Curve {9, 14, 19, 11} = 0.9 * factor_far;
+//-- OBJECT
+// Length L (longi)
+Transfinite Curve {5, 6, 7, 8} = L * factor_body;
+// Length
+Transfinite Curve {1, 2, 3, 4} = s * factor_body;
 
 
