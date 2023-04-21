@@ -5,6 +5,10 @@ Collection of geometries 2D and 3D, mostly for Computational Fluid Dynamics.
 * .brep: This is a representation of a solid by its surfaces. This is readable by [Gmsh](https://gmsh.info/).
 * .geo: This is a CAO format. This format is readable by [Gmsh](https://gmsh.info/).
 
+I can assure you all the _.geo_ files work well with the 4.9.5 version of _GMSH_. I can not guarantee the result with other versions.
+
+In the document **img.pdf**, you can see some illustrations of geometries of this repository. We decided to represent all the geometries by a triangulation of the surface of the geometry.
+
 # Geometries 2D
 
 ### C?_2D
@@ -102,3 +106,6 @@ Technical reports are available with experimental data sets.
 * ["Numerical Prediction of Hypersonic Flowfields Including Effects
   of Electron Translational Nonequilibrium"](https://arc.aiaa.org/doi/10.2514/1.T3963)
 
+
+
+I would like to thank the people who helped me to build this repository, by sending me docs, and geometries in different formats.
