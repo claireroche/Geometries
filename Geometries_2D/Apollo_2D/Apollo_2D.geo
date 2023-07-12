@@ -1,4 +1,4 @@
-Merge "1a_apollo_experimental_coupe.brep";
+Merge "Apollo_2D.brep";
 SetFactory("OpenCASCADE");
 //+
 Circle(20) = {50, 0, 0, 150, 2*Pi};
