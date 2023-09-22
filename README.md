@@ -9,6 +9,8 @@ In the document **img.pdf**, you can see some illustrations of geometries of thi
 
 I can assure you all the _.geo_ files work well with the 4.9.5 version of _GMSH_. I can not guarantee the result with other versions.
 
+**ATTENTION:** in some _.geo_ files, you also can find informations linked to the mesh. I invite you to delete those sections if not needed.
+
 # Geometries 2D
 
 ### C?_2D
