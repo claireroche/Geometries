@@ -56,6 +56,8 @@ This part is a list of some articles using these geometries for CFD.
 ### Double Ellipsoid
 
 * ["Hypersonic Flows for Reentry Problems"](https://link.springer.com/content/pdf/10.1007/978-3-642-76527-8_6.pdf)
+* ["Experimental study of the flow around a double ellipsoid configuration"](https://link.springer.com/chapter/10.1007/978-3-642-76527-8_27)
+* ["Immersed boundaries in hypersonic flows with considerations about high-fidelity and massive parallelism"](https://www.researchgate.net/profile/Thibault-Bridel-Bertomeu/publication/362945337_Immersed_Boundaries_In_Hypersonic_Flows_With_Considerations_About_High-Fidelity_and_Massive_Parallelism/links/630887bb61e4553b953c33fe/Immersed-Boundaries-In-Hypersonic-Flows-With-Considerations-About-High-Fidelity-and-Massive-Parallelism.pdf)
 
 ### Fire II
 * ["Numerical Simulations of the FIRE-II Convective and
