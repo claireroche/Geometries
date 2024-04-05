@@ -4,7 +4,8 @@ In the document **img.pdf**, you can see some illustrations of geometries of thi
 
 # Formats
 * .hdf: This is the studies format of the CAO Software Shaper, from the [Salome](https://docs.salome-platform.org/latest/main/index.html) platform.
-* .brep: This is a representation of a solid by its surfaces. This is readable by [Gmsh](https://gmsh.info/).
+* .brep: This is a representation of a solid by its surfaces. This is at least readable by [Gmsh](https://gmsh.info/) and [Salome](https://docs.salome-platform.org/latest/main/index.html).
+* .step: This is at least readable by [Gmsh](https://gmsh.info/) and [Salome](https://docs.salome-platform.org/latest/main/index.html).
 * .geo: This is a CAO format. This format is readable by [Gmsh](https://gmsh.info/).
 
 I can assure you all the _.geo_ files work well with the 4.9.5 version of _GMSH_. I can not guarantee the result with other versions.
