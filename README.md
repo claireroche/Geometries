@@ -41,6 +41,9 @@ This part is a list of some articles using these geometries for CFD.
 
 [//]: <> (<img src="./img/Apollo_2D.png" alt="Test" style="height: 50px; width:50px;"/>)
 
+### Caretwing
+* ["Hypersonic aircraft and their aerodynamic problems"](https://www.sciencedirect.com/science/article/pii/0376042165900060)
+
 ### Cone Cylinder Flare (CCF)
 * ["Flow and Stability Analysis of a Hypersonic Boundary Layer over an Axisymmetric Cone Cylinder Flare Configuration"](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2115)
 
