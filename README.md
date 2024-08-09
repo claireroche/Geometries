@@ -4,7 +4,8 @@ In the document **img.pdf**, you can see some illustrations of geometries of thi
 
 # Formats
 * .hdf: This is the studies format of the CAO Software Shaper, from the [Salome](https://docs.salome-platform.org/latest/main/index.html) platform.
-* .brep: This is a representation of a solid by its surfaces. This is at least readable by [Gmsh](https://gmsh.info/) and [Salome](https://docs.salome-platform.org/latest/main/index.html).
+* .brep: This is a representation of a solid by its surfaces. This is at least readable by [Gmsh](https://gmsh.info/) and [Salome](https://docs.salome-platform.org/latest/mInvestigation of Flow Field in a Typical Hypersonic Wind
+Tunnel over a Standard Modeain/index.html).
 * .step: This is at least readable by [Gmsh](https://gmsh.info/) and [Salome](https://docs.salome-platform.org/latest/main/index.html).
 * .geo: This is a CAO format. This format is readable by [Gmsh](https://gmsh.info/).
 
@@ -68,6 +69,10 @@ This part is a list of some articles using these geometries for CFD.
 * Thesis ["NUMERICAL SIMULATION OF
     WEAKLY IONIZED HYPERSONIC
     FLOW OVER REENTRY CAPSULES"](https://web.archive.org/web/20170809050846id_/http://ngpdlab.engin.umich.edu/files/papers/Scalabrin.pdf)
+
+### HB-2
+* ["Investigation of Flow Field in a Typical Hypersonic Wind Tunnel over a Standard Mode"](https://www.jafmonline.net/JournalArchive/article_1406_5398e030ad9578c4091a0621d36f5ee1.pdf)
+* ["FORCE TESTS OF STANDARD HYPERVELOCITY BALLISTIC MODELS HB-1 AND HB-2 AT MACH 1.5 TO 10"](https://apps.dtic.mil/sti/pdfs/AD0412651.pdf)
 
 ### HIFIRE I
 * ["Fifty Years of Shock-Wave/Boundary-Layer Interaction Research: What Next?"](https://arc.aiaa.org/doi/abs/10.2514/2.1476)
